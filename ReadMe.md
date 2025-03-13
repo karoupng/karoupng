@@ -1,6 +1,6 @@
 ![Banner Karol](images/HEADER.png)
-<br>Sou Desenvolvedora Back-End em formação. Sou apaixonada por tecnologia<br>desde os meus 7 anos de idade. Estou cursando Bacharel em Engenharia de Software na <br>instituição Uninter/Centro Universitário Internacional. 
-Antes de entrar na faculdade, tive<br>meu primeiro contato com a programação através da linguagem C#, Banco de dados e <br>SQL SERVER. Sou movida pelo desafio de aprender novas tecnologias e tenho objetivo <br>
+<br>Sou Desenvolvedora Back-End em formação. Sou apaixonada por tecnologia desde os meus 7 anos de idade. Estou cursando Bacharel em Engenharia de Software na <br>instituição Uninter/Centro Universitário Internacional. 
+Antes de entrar na faculdade, tive meu primeiro contato com a programação através da linguagem C#, Banco de dados e SQL SERVER. Sou movida pelo desafio de aprender novas tecnologias e tenho objetivo 
 de me profissionalizar no mundo da tecnologia!<br>
 
 
