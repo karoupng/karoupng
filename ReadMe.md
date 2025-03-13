@@ -1,6 +1,6 @@
-!![Banner Karol](images/HEADER.png)
+![Banner Karol](images/HEADER.png)
 <br>
-<span style="color: rgb(131, 39, 218)">Sou Desenvolvedora Back-End em formação. Sou apaixonada por tecnologia desde os meus 7 anos de idade. Estou cursando Bacharel em Engenharia de Software na instituição Uninter/Centro Universitário Internacional. 
+<span style="color:#8331DA">Sou Desenvolvedora Back-End em formação. Sou apaixonada por tecnologia desde os meus 7 anos de idade. Estou cursando Bacharel em Engenharia de Software na instituição Uninter/Centro Universitário Internacional. 
 <br>
 Antes de entrar na faculdade, tive meu primeiro contato com a programação através da linguagem C#, Banco de dados e SQL SERVER. Sou movida pelo desafio de aprender novas tecnologias e tenho objetivo 
 de me profissionalizar no mundo da tecnologia!</span>
