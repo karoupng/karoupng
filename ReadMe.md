@@ -15,7 +15,7 @@ de me profissionalizar no mundo da tecnologia!</span> <b>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=karoupng&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karoupng&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=jolly_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karoupng&theme=jolly&show_icons=true)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=karoupng&limit=5&theme=dark&combine_all_yearly_contributions=true)
