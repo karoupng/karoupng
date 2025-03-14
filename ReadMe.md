@@ -9,7 +9,7 @@ de me profissionalizar no mundo da tecnologia!</span> <b>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/karou.png/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karolaine-pereir-40a169139/) 
 
 # 💻 Tecnologias utilizadas:
-[![HTML5](./images/iconehtml.jpg)](https://www.w3schools.com/html/) [![MicrosoftSQLServer](./images/SQLSERVER.jpg)]([https://en.wikipedia.org/wiki/Microsoft_SQL_Server](https://www.w3schools.com/sql/sql_create_db.asp)) [![.Net](images/ICONENET.jpg)](https://pt.wikipedia.org/wiki/.NET) ![JavaScript](images/ICONEJAVA.jpg) ![Csharp](images/csharp.jpg)
+[![HTML5](./images/iconehtml.jpg)](https://www.w3schools.com/html/) [![MicrosoftSQLServer](./images/SQLSERVER.jpg)](https://www.w3schools.com/sql/default.asp) [![.Net](images/ICONENET.jpg)](https://pt.wikipedia.org/wiki/.NET) ![JavaScript](images/ICONEJAVA.jpg) ![Csharp](images/csharp.jpg)
 # 📊 Estatísticas Github:
 
 
