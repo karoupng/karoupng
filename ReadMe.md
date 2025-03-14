@@ -13,10 +13,9 @@ de me profissionalizar no mundo da tecnologia!</span> <b>
 # 📊 Estatísticas Github:
 
 
-
-<a href="https://www.seusite.com.br">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karoupng&theme=jolly&hide_border=true&include_all_commits=true&count_private=false&layout=compact" style="margin-left: 50px;" />
-</a>
+<div style="position: relative; height: 300px;">
+<img src="https://github-readme-stats.vercel.app/api?username=karoupng&show_icons=true&theme=jolly" style="position: absolute; top: 20px; right: 20px;" />
+</div>
 
 
 
