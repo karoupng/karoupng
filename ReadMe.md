@@ -12,6 +12,8 @@ de me profissionalizar no mundo da tecnologia!</span> <b>
 ![HTML5](images/iconehtml.jpg) ![MicrosoftSQLServer](images/SQLSERVER.jpg) ![.Net](images/ICONENET.jpg) ![JavaScript](images/ICONEJAVA.jpg) ![Csharp](images/csharp.jpg)
 # 📊 Estatísticas Github:
 
+[![HTML5](./images/iconehtml.jpg)](https://www.w3schools.com/html/)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karoupng&theme=jolly&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br>
