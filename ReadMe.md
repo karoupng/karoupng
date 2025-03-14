@@ -13,12 +13,10 @@ de me profissionalizar no mundo da tecnologia!</span> <b>
 # 📊 Estatísticas Github:
 
 
-<div style="position: relative; height: 300px;">
-<img src="https://github-readme-stats.vercel.app/api?username=karoupng&show_icons=true&theme=jolly" style="position: absolute; top: 20px; right: 20px;" />
-</div>
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karoupng&theme=jolly&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karoupng&theme=jolly&show_icons=true)<br>
 ![Anurag's GitHub stats](https://nirzak-streak-stats.vercel.app/?user=karoupng&theme=jolly&hide_border=true)<br/>
 
