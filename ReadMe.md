@@ -1,6 +1,6 @@
 ![Banner Karol](images/HEADER.png)
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2500&pause=&color=A36FEA&multiline=true&width=1042&height=230&lines=Ol%C3%A1%2C+eu+sou+a+Karolaine+Pereira!+;Desenvolvedora+BackEnd+em+forma%C3%A7%C3%A3o;Sou+apaixonada+por+tecnologia+desde+os+meus+7+anos+;Estou+cursando+Bacharel+em+Engenharia+de+Software;na+institui%C3%A7%C3%A3o+Uninter%2FCentro+Universit%C3%A1rio+;Internacional.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=&color=A36FEA&multiline=true&width=1042&height=230&lines=Ol%C3%A1%2C+eu+sou+a+Karolaine+Pereira!+;Desenvolvedora+BackEnd+em+forma%C3%A7%C3%A3o;Sou+apaixonada+por+tecnologia+desde+os+meus+7+anos+;Estou+cursando+Bacharel+em+Engenharia+de+Software;na+institui%C3%A7%C3%A3o+Uninter%2FCentro+Universit%C3%A1rio+;Internacional.+)](https://git.io/typing-svg)
 <span style="color:#8331DA"><b>Sou Desenvolvedora Back-End em formação. Sou apaixonada por tecnologia desde os meus 7 anos de idade. Estou cursando Bacharel em Engenharia de Software na instituição Uninter/Centro Universitário Internacional.<b> 
 <br>
 <b>Antes de entrar na faculdade, tive meu primeiro contato com a programação através da linguagem C#, Banco de dados e SQL SERVER. Sou movida pelo desafio de aprender novas tecnologias e tenho objetivo 
