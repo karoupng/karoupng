@@ -13,7 +13,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karoupng&theme=jolly&show_icons=true) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karoupng&show_icons=true&theme=transparent&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karoupng&show_icons=true&theme=purple&hide_border=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karoupng&theme=jolly&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
