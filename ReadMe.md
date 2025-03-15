@@ -18,8 +18,7 @@
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 
-https://www.instagram.com/karou.png
-https://www.linkedin.com/in/karolaine-pereir-40a169139/
+
 
 
 
