@@ -17,7 +17,7 @@
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 
-![snake animation](https://github.com/<karoupng>/<karoupng>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Karoupng/Karoupng/blob/output/github-contribution-grid-snake2.svg)
 
 
 
