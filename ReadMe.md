@@ -13,8 +13,9 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karoupng&theme=jolly&show_icons=true) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karoupng&theme=jolly&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-github-readme-stats.svg)
 
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
