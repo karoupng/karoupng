@@ -7,7 +7,7 @@
 
 # ![coração](images/heart.gif) Tecnologias Utilizadas:
 
-![tecnologias](images/stack2.png)
+ㅤㅤㅤ![tecnologias](images/stack2.png)
 # ![coração](images/heart.gif) Estatísticas Github:
 
 
