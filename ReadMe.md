@@ -22,9 +22,32 @@
 
 
 
+## My Contribution Graph
 
+<!-- Pac-Man -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
 
+<!-- Breakout -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/breakout-contribution-graph.svg">
+    <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/breakout-contribution-graph.svg">
+</picture>
 
+<!-- Galaga -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/galaga-contribution-graph.svg">
+</picture>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Puzzle Bobble -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/puzzle-bobble-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/puzzle-bobble-contribution-graph.svg">
+    <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/puzzle-bobble-contribution-graph.svg">
+</picture>
