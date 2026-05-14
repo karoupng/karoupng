@@ -7,6 +7,7 @@
 
 # ![coração](images/heart.gif) Tecnologias Utilizadas:
 [![HTML5](./images/iconehtml.jpg)](https://www.w3schools.com/html/) [![MicrosoftSQLServer](./images/SQLSERVER.jpg)](https://www.w3schools.com/sql/default.asp) [![.Net](images/ICONENET.jpg)](https://pt.wikipedia.org/wiki/.NET) [![JavaScript](images/ICONEJAVA.jpg)](https://www.w3schools.com/js/default.asp) [![Csharp](images/csharp.jpg)](https://www.w3schools.com/cs/index.php)
+![tecnologias](images/stack2.png)
 # ![coração](images/heart.gif) Estatísticas Github:
 
 
